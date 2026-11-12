@@ -1,0 +1,56 @@
+Audit ID,Audit Date,Asset ID,Recorded Site,Observed Site,Recorded Status,Observed Status,Auditor,Corrective Action,Corrective Action Status
+AUD-26-001,2026-08-04,AST-0063,FRA-01,FRA-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-002,2026-08-05,AST-0129,AMS-01,AMS-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-003,2026-08-06,AST-0025,STO-01,STO-01,Under Maintenance,Under Maintenance,Regional Asset Manager,None required,Not Required
+AUD-26-004,2026-08-08,AST-0016,STO-01,STO-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-005,2026-08-10,AST-0171,AMS-01,AMS-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-006,2026-08-13,AST-0096,FRA-01,FRA-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-007,2026-08-14,AST-0002,HEL-01,HEL-01,Available,Available,Asset Controller,None required,Not Required
+AUD-26-008,2026-08-14,AST-0109,HEL-01,AMS-01,Deployed,Deployed,Asset Controller,Register location corrected after physical verification and transfer record found,Resolved
+AUD-26-009,2026-08-15,AST-0079,AMS-01,AMS-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-010,2026-08-16,AST-0066,HEL-01,STO-01,Deployed,Deployed,Site Ops Lead,Register location corrected after physical verification and transfer record found,Resolved
+AUD-26-011,2026-08-20,AST-0141,FRA-01,FRA-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-012,2026-08-22,AST-0021,HEL-01,FRA-01,Deployed,Deployed,Regional Asset Manager,Confirm inter-site transfer paperwork; update register or return asset to recorded site,Open
+AUD-26-013,2026-08-24,AST-0018,AMS-01,AMS-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-014,2026-08-25,AST-0166,HEL-01,HEL-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-015,2026-09-01,AST-0135,HEL-01,HEL-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-016,2026-09-01,AST-0169,FRA-01,FRA-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-017,2026-09-06,AST-0140,AMS-01,AMS-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-018,2026-09-09,AST-0074,FRA-01,FRA-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-019,2026-09-10,AST-0181,STO-01,Not Located,Available,Not Located,Regional Asset Manager,"Escalate: search spare cages, RMA shipments and transfer logs; raise loss report if not found in 10 days",Open
+AUD-26-020,2026-09-10,AST-0197,AMS-01,AMS-01,Available,Available,Site Ops Lead,None required,Not Required
+AUD-26-021,2026-09-14,AST-0004,AMS-01,AMS-01,Available,Available,Asset Controller,None required,Not Required
+AUD-26-022,2026-09-15,AST-0134,HEL-01,HEL-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-023,2026-09-17,AST-0065,AMS-01,AMS-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-024,2026-09-20,AST-0051,HEL-01,HEL-01,Deployed,Available,Site Ops Lead,"Status corrected: asset confirmed in spare cage, removed from production inventory",Resolved
+AUD-26-025,2026-09-20,AST-0111,HEL-01,HEL-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-026,2026-09-21,AST-0185,FRA-01,AMS-01,Deployed,Deployed,Site Ops Lead,Confirm inter-site transfer paperwork; update register or return asset to recorded site,In Progress
+AUD-26-027,2026-09-22,AST-0005,FRA-01,FRA-01,Under RMA,Under RMA,Site Ops Lead,None required,Not Required
+AUD-26-028,2026-09-28,AST-0123,FRA-01,HEL-01,Deployed,Deployed,Asset Controller,Register location corrected after physical verification and transfer record found,Resolved
+AUD-26-029,2026-10-02,AST-0101,FRA-01,FRA-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-030,2026-10-04,AST-0190,HEL-01,HEL-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-031,2026-10-05,AST-0191,AMS-01,AMS-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-032,2026-10-06,AST-0143,AMS-01,STO-01,Available,Deployed,Site Ops Lead,Spare moved and installed without change record; raise change ticket and update register,In Progress
+AUD-26-033,2026-10-09,AST-0059,AMS-01,AMS-01,Available,Available,Site Ops Lead,None required,Not Required
+AUD-26-034,2026-10-11,AST-0173,HEL-01,HEL-01,Available,Available,Regional Asset Manager,None required,Not Required
+AUD-26-035,2026-10-12,AST-0036,STO-01,STO-01,Under RMA,Under RMA,Asset Controller,None required,Not Required
+AUD-26-036,2026-10-14,AST-0003,FRA-01,FRA-01,Available,Available,Site Ops Lead,None required,Not Required
+AUD-26-037,2026-10-14,AST-0142,HEL-01,HEL-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-038,2026-10-14,AST-0148,AMS-01,AMS-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-039,2026-10-17,AST-0178,FRA-01,FRA-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-040,2026-10-18,AST-0046,FRA-01,FRA-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-041,2026-10-24,AST-0039,HEL-01,HEL-01,Available,Available,Asset Controller,None required,Not Required
+AUD-26-042,2026-10-25,AST-0013,AMS-01,AMS-01,Under RMA,Under RMA,Site Ops Lead,None required,Not Required
+AUD-26-043,2026-10-26,AST-0068,FRA-01,FRA-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-044,2026-10-26,AST-0180,HEL-01,HEL-01,Available,Available,Site Ops Lead,None required,Not Required
+AUD-26-045,2026-10-28,AST-0196,FRA-01,FRA-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-046,2026-10-29,AST-0157,AMS-01,AMS-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-047,2026-10-29,AST-0167,AMS-01,AMS-01,Deployed,Deployed,Asset Controller,None required,Not Required
+AUD-26-048,2026-10-30,AST-0122,HEL-01,HEL-01,Available,Available,Regional Asset Manager,None required,Not Required
+AUD-26-049,2026-10-31,AST-0020,FRA-01,FRA-01,Deployed,Deployed,Site Ops Lead,None required,Not Required
+AUD-26-050,2026-11-02,AST-0107,HEL-01,HEL-01,Deployed,Under Maintenance,Asset Controller,Asset found on workbench; confirm maintenance ticket and update status,Open
+AUD-26-051,2026-11-03,AST-0076,HEL-01,HEL-01,Under RMA,Under RMA,Site Ops Lead,None required,Not Required
+AUD-26-052,2026-11-07,AST-0130,HEL-01,HEL-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-053,2026-11-07,AST-0176,AMS-01,AMS-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-054,2026-11-09,AST-0116,AMS-01,AMS-01,Deployed,Deployed,Regional Asset Manager,None required,Not Required
+AUD-26-055,2026-11-10,AST-0028,FRA-01,FRA-01,Deployed,Deployed,Asset Controller,None required,Not Required

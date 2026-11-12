@@ -1,0 +1,37 @@
+RMA ID,Asset ID,Component Type,Failed Part Serial,Failure Description,Date Reported,Case Created Date,Vendor Status,Case Status,Spare Swap Asset ID,Replacement Tracking No.,Closure Date
+RMA-26-001,AST-0178,Power Supply Unit,FP85007641,PSU output failure; redundancy-lost alarm,2026-01-28,2026-01-30,Replacement Received,Closed,,1Z8397709966EU,2026-02-09
+RMA-26-002,AST-0067,Memory DIMM,FP46032304,Correctable ECC error threshold exceeded on DIMM,2026-02-26,2026-02-26,Repaired,Closed,,,2026-04-07
+RMA-26-003,AST-0009,GPU,FP37449289,NVLink CRC errors and thermal throttling under load,2026-03-09,2026-03-11,Replacement Received,Closed,,1Z6167393219EU,2026-04-16
+RMA-26-004,AST-0107,GPU,FP25145751,Uncorrectable ECC errors; GPU fell off the bus (Xid 79),2026-03-12,2026-03-12,Replacement Received,Closed,AST-0130,1Z6638957137EU,2026-04-07
+RMA-26-005,AST-0196,Power Supply Unit,FP76521096,PSU output failure; redundancy-lost alarm,2026-04-07,2026-04-09,Repaired,Closed,,,2026-05-25
+RMA-26-006,AST-0052,Power Supply Unit,FP28808678,PSU fan failure followed by over-temperature shutdown,2026-05-09,2026-05-09,Rejected - Out of Warranty,Closed,,,2026-05-17
+RMA-26-007,AST-0086,Storage Controller,FP72579077,NVMe backplane/controller fault; drives offline,2026-05-11,2026-05-12,Replacement Received,Closed,,1Z9786280935EU,2026-06-22
+RMA-26-008,AST-0091,Fan Module,FP72146184,Fan RPM below threshold; chassis fan fault,2026-05-13,2026-05-13,Replacement Received,Closed,,1Z4711216152EU,2026-06-02
+RMA-26-009,AST-0072,Power Supply Unit,FP70369365,PSU fan failure followed by over-temperature shutdown,2026-05-20,2026-05-20,Replacement Received,Closed,,1Z4183654731EU,2026-06-08
+RMA-26-010,AST-0056,Motherboard,FP15937353,PCIe link training failure on GPU baseboard slot,2026-05-30,2026-05-30,Rejected - Out of Warranty,Closed,,,2026-06-04
+RMA-26-011,AST-0089,Power Supply Unit,FP72546007,PSU output failure; redundancy-lost alarm,2026-06-15,2026-06-16,Replacement Received,Closed,,1Z5364631241EU,2026-07-08
+RMA-26-012,AST-0174,GPU,FP43220503,NVLink CRC errors and thermal throttling under load,2026-06-17,2026-06-17,Replacement Received,Closed,AST-0125,1Z8387395021EU,2026-07-20
+RMA-26-013,AST-0042,GPU,FP27092236,GPU not enumerated after firmware update,2026-06-16,2026-06-18,Replacement Received,Closed,AST-0062,1Z2267841227EU,2026-07-22
+RMA-26-014,AST-0082,GPU,FP90233330,GPU not enumerated after firmware update,2026-07-02,2026-07-03,Replacement Received,Closed,AST-0155,1Z6137604603EU,2026-07-14
+RMA-26-015,AST-0101,Motherboard,FP52779814,PCIe link training failure on GPU baseboard slot,2026-07-03,2026-07-05,Repaired,Closed,,,2026-08-21
+RMA-26-016,AST-0142,GPU,FP37659807,Uncorrectable ECC errors; GPU fell off the bus (Xid 79),2026-07-08,2026-07-08,Replacement Received,Closed,AST-0153,1Z6282889763EU,2026-07-18
+RMA-26-017,AST-0081,Storage Controller,FP82199509,NVMe backplane/controller fault; drives offline,2026-08-07,2026-08-07,Replacement Received,Closed,,1Z6350369667EU,2026-08-22
+RMA-26-018,AST-0049,Power Supply Unit,FP62132722,PSU output failure; redundancy-lost alarm,2026-08-09,2026-08-09,Repaired,Closed,,,2026-09-10
+RMA-26-019,AST-0036,Power Supply Unit,FP78886959,PSU fan failure followed by over-temperature shutdown,2026-08-29,2026-08-29,Approved - Advance Replacement,Open,,,
+RMA-26-020,AST-0094,GPU,FP50045602,NVLink CRC errors and thermal throttling under load,2026-09-02,2026-09-02,Replacement Received,Closed,AST-0123,1Z6744794855EU,2026-09-11
+RMA-26-021,AST-0005,Storage Controller,FP77845324,NVMe backplane/controller fault; drives offline,2026-09-09,2026-09-11,Submitted,Open,,,
+RMA-26-022,AST-0043,Storage Controller,FP38428357,NVMe backplane/controller fault; drives offline,2026-09-12,2026-09-12,Replacement Received,Closed,,1Z8471499716EU,2026-10-01
+RMA-26-023,AST-0006,GPU,FP30112846,Uncorrectable ECC errors; GPU fell off the bus (Xid 79),2026-09-23,2026-09-25,Replacement Shipped,Awaiting Replacement,,1Z2979245480EU,
+RMA-26-024,AST-0013,Motherboard,FP69302835,No POST; BMC reports CPU voltage regulator fault,2026-09-30,2026-10-02,Approved - Advance Replacement,Open,,,
+RMA-26-025,AST-0024,Optical Transceiver,FP88268756,Rx optical power below threshold after fibre cleaning,2026-10-06,2026-10-06,Replacement Shipped,Awaiting Replacement,,1Z2512585138EU,
+RMA-26-026,AST-0026,Optical Transceiver,FP69791674,High pre-FEC BER and link flapping,2026-10-08,2026-10-10,Submitted,Open,,,
+RMA-26-027,AST-0037,Optical Transceiver,FP17749299,Rx optical power below threshold after fibre cleaning,2026-10-15,2026-10-17,Approved - Advance Replacement,Open,,,
+RMA-26-028,AST-0126,GPU,FP56676884,Uncorrectable ECC errors; GPU fell off the bus (Xid 79),2026-10-19,2026-10-21,Submitted,Open,AST-0060,,
+RMA-26-029,AST-0076,Motherboard,FP63143336,PCIe link training failure on GPU baseboard slot,2026-10-22,2026-10-22,Replacement Shipped,Awaiting Replacement,,1Z7642365889EU,
+RMA-26-030,AST-0132,Network Switch,FP39246218,ASIC parity errors causing port resets,2026-10-23,2026-10-25,Submitted,Open,,,
+RMA-26-031,AST-0139,GPU,FP18557710,GPU not enumerated after firmware update,2026-10-28,2026-10-29,Approved - Advance Replacement,Open,,,
+RMA-26-032,AST-0187,Power Supply Unit,FP73360324,PSU output failure; redundancy-lost alarm,2026-11-01,2026-11-01,Submitted,Open,,,
+RMA-26-033,AST-0195,Motherboard,FP34156684,No POST; BMC reports CPU voltage regulator fault,2026-11-02,2026-11-03,Approved - Advance Replacement,Open,,,
+RMA-26-034,AST-0200,GPU,FP96688655,NVLink CRC errors and thermal throttling under load,2026-11-04,2026-11-06,Replacement Shipped,Awaiting Replacement,,1Z5111301175EU,
+RMA-26-035,AST-0074,GPU,FP70201634,Uncorrectable ECC errors; GPU fell off the bus (Xid 79),2026-11-07,2026-11-08,Replacement Shipped,Awaiting Replacement,AST-0020,1Z3250324141EU,
+RMA-26-036,AST-0182,GPU,FP20770971,GPU not enumerated after firmware update,2026-11-08,2026-11-09,Approved - Advance Replacement,Open,AST-0048,,

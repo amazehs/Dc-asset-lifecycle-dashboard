@@ -1,0 +1,57 @@
+SKU,Site,Equipment Category,Description,Current Stock (On Hand),Reserved Stock,Stock On Order,Avg Monthly Consumption,Supplier Lead Time (Days),Safety Stock,Target Stock,Unit Cost (EUR)
+SP-OPT-400G,HEL-01,Optical Transceiver,QSFP112 400G SR4 transceiver,19,0,0,7.0,42,6,30,720
+SP-OPT-400G,AMS-01,Optical Transceiver,QSFP112 400G SR4 transceiver,30,2,0,6.0,42,5,26,720
+SP-OPT-400G,FRA-01,Optical Transceiver,QSFP112 400G SR4 transceiver,16,0,0,5.5,42,5,24,720
+SP-OPT-400G,STO-01,Optical Transceiver,QSFP112 400G SR4 transceiver,13,3,0,3.5,42,3,15,720
+SP-OPT-100G,HEL-01,Optical Transceiver,QSFP28 100G SR4 transceiver,15,1,0,4.0,28,3,15,160
+SP-OPT-100G,AMS-01,Optical Transceiver,QSFP28 100G SR4 transceiver,13,0,0,4.0,28,3,15,160
+SP-OPT-100G,FRA-01,Optical Transceiver,QSFP28 100G SR4 transceiver,8,0,0,3.0,28,3,12,160
+SP-OPT-100G,STO-01,Optical Transceiver,QSFP28 100G SR4 transceiver,11,2,0,2.5,28,2,10,160
+SP-DAC-400G,HEL-01,Cabling,"400G QSFP112 DAC cable, 2 m",18,0,0,6.0,21,5,22,210
+SP-DAC-400G,AMS-01,Cabling,"400G QSFP112 DAC cable, 2 m",19,0,0,5.0,21,4,18,210
+SP-DAC-400G,FRA-01,Cabling,"400G QSFP112 DAC cable, 2 m",0,0,0,4.0,21,3,14,210
+SP-DAC-400G,STO-01,Cabling,"400G QSFP112 DAC cable, 2 m",0,0,15,3.0,21,3,12,210
+SP-DAC-BRK,HEL-01,Cabling,"800G to 2x400G breakout DAC, 2 m",14,0,0,3.5,35,3,15,390
+SP-DAC-BRK,AMS-01,Cabling,"800G to 2x400G breakout DAC, 2 m",8,2,0,3.5,35,3,15,390
+SP-DAC-BRK,FRA-01,Cabling,"800G to 2x400G breakout DAC, 2 m",12,2,0,3.0,35,3,13,390
+SP-DAC-BRK,STO-01,Cabling,"800G to 2x400G breakout DAC, 2 m",11,1,0,2.0,35,2,9,390
+SP-MPO-12,HEL-01,Cabling,"MPO-12 OM4 fibre trunk, 10 m",6,0,0,5.5,14,5,19,95
+SP-MPO-12,AMS-01,Cabling,"MPO-12 OM4 fibre trunk, 10 m",4,0,0,3.5,14,3,12,95
+SP-MPO-12,FRA-01,Cabling,"MPO-12 OM4 fibre trunk, 10 m",7,1,0,3.5,14,3,12,95
+SP-MPO-12,STO-01,Cabling,"MPO-12 OM4 fibre trunk, 10 m",0,0,10,2.0,14,2,7,95
+SP-PSU-2K,HEL-01,Power Supply Unit,2000W Titanium PSU (storage/switch),4,0,0,2.5,35,2,10,480
+SP-PSU-2K,AMS-01,Power Supply Unit,2000W Titanium PSU (storage/switch),0,0,0,2.0,35,2,9,480
+SP-PSU-2K,FRA-01,Power Supply Unit,2000W Titanium PSU (storage/switch),8,2,0,1.5,35,2,7,480
+SP-PSU-2K,STO-01,Power Supply Unit,2000W Titanium PSU (storage/switch),6,3,0,1.0,35,1,5,480
+SP-FAN-GPU,HEL-01,Cooling,GPU server hot-swap fan module,16,3,0,4.0,28,3,15,140
+SP-FAN-GPU,AMS-01,Cooling,GPU server hot-swap fan module,10,2,0,3.0,28,3,12,140
+SP-FAN-GPU,FRA-01,Cooling,GPU server hot-swap fan module,5,1,0,2.0,28,2,8,140
+SP-FAN-GPU,STO-01,Cooling,GPU server hot-swap fan module,0,0,35,1.5,28,2,7,140
+SP-DIMM-64,HEL-01,Memory,64GB DDR5-4800 RDIMM,14,0,0,6.0,28,5,23,310
+SP-DIMM-64,AMS-01,Memory,64GB DDR5-4800 RDIMM,6,0,15,5.5,28,5,22,310
+SP-DIMM-64,FRA-01,Memory,64GB DDR5-4800 RDIMM,23,0,0,4.5,28,4,18,310
+SP-DIMM-64,STO-01,Memory,64GB DDR5-4800 RDIMM,7,0,0,2.5,28,2,10,310
+SP-NVME-3T8,HEL-01,Storage Media,3.84TB NVMe U.2 SSD,2,1,0,3.5,35,3,15,620
+SP-NVME-3T8,AMS-01,Storage Media,3.84TB NVMe U.2 SSD,8,2,0,3.0,35,3,13,620
+SP-NVME-3T8,FRA-01,Storage Media,3.84TB NVMe U.2 SSD,8,0,0,3.0,35,3,13,620
+SP-NVME-3T8,STO-01,Storage Media,3.84TB NVMe U.2 SSD,9,1,0,1.5,35,2,7,620
+SP-NVME-7T6,HEL-01,Storage Media,7.68TB NVMe U.2 SSD,8,0,0,2.5,42,2,11,980
+SP-NVME-7T6,AMS-01,Storage Media,7.68TB NVMe U.2 SSD,8,1,0,2.0,42,2,9,980
+SP-NVME-7T6,FRA-01,Storage Media,7.68TB NVMe U.2 SSD,5,2,0,1.5,42,2,8,980
+SP-NVME-7T6,STO-01,Storage Media,7.68TB NVMe U.2 SSD,6,2,0,1.0,42,1,5,980
+SP-HDD-20T,HEL-01,Storage Media,20TB SAS 7.2k HDD,19,1,0,4.5,30,4,18,420
+SP-HDD-20T,AMS-01,Storage Media,20TB SAS 7.2k HDD,16,2,0,3.5,30,3,14,420
+SP-HDD-20T,FRA-01,Storage Media,20TB SAS 7.2k HDD,13,3,0,3.0,30,3,12,420
+SP-HDD-20T,STO-01,Storage Media,20TB SAS 7.2k HDD,4,0,0,1.5,30,2,7,420
+SP-NIC-OCP,HEL-01,Network Adapter,OCP 3.0 2x25GbE NIC,3,0,0,1.0,45,1,5,390
+SP-NIC-OCP,AMS-01,Network Adapter,OCP 3.0 2x25GbE NIC,7,1,0,1.0,45,1,5,390
+SP-NIC-OCP,FRA-01,Network Adapter,OCP 3.0 2x25GbE NIC,6,0,0,1.0,45,1,5,390
+SP-NIC-OCP,STO-01,Network Adapter,OCP 3.0 2x25GbE NIC,2,0,0,0.5,45,1,3,390
+SP-SSD-BOOT,HEL-01,Storage Media,960GB M.2 NVMe boot SSD,10,0,0,3.0,21,3,12,140
+SP-SSD-BOOT,AMS-01,Storage Media,960GB M.2 NVMe boot SSD,7,2,0,2.5,21,2,9,140
+SP-SSD-BOOT,FRA-01,Storage Media,960GB M.2 NVMe boot SSD,8,0,0,1.5,21,2,7,140
+SP-SSD-BOOT,STO-01,Storage Media,960GB M.2 NVMe boot SSD,4,1,0,1.5,21,2,7,140
+SP-PWR-C19,HEL-01,Cabling,"C19-C20 power cord, pack of 10",3,3,25,2.5,10,2,8,45
+SP-PWR-C19,AMS-01,Cabling,"C19-C20 power cord, pack of 10",12,3,0,2.0,10,2,7,45
+SP-PWR-C19,FRA-01,Cabling,"C19-C20 power cord, pack of 10",2,2,20,1.5,10,2,6,45
+SP-PWR-C19,STO-01,Cabling,"C19-C20 power cord, pack of 10",3,0,0,1.0,10,1,4,45

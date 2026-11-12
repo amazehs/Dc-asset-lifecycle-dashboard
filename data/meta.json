@@ -1,0 +1,20 @@
+{
+  "reference_date": "2026-11-12",
+  "seed": 42,
+  "showcase_gpu_server": "AST-0074",
+  "showcase_spare_gpu": "AST-0020",
+  "showcase_rma": "RMA-26-035",
+  "exceptions": {
+    "duplicate_serial": [
+      "AST-0008",
+      "AST-0012"
+    ],
+    "no_rack": "AST-0017",
+    "no_po": "AST-0041",
+    "no_audit_date": "AST-0045",
+    "retired_no_disposal": "AST-0069"
+  },
+  "pending_approval_rate": 0.6,
+  "days_per_month": 30,
+  "late_po_request": "REQ-26-034"
+}

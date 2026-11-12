@@ -1,0 +1,56 @@
+Request ID,Request Date,Requesting Site,Procurement Category,SKU,Item Description,Quantity,Est. Unit Price (EUR),Approval Stage,PO Reference,Supplier,Expected Delivery Date,Actual Delivery Date,Invoice Status,Invoice Date
+REQ-26-001,2026-01-13,FRA-01,Spare Parts Replenishment,SP-PWR-C19,"C19-C20 power cord, pack of 10",20,45.0,Invoiced,PO-26-00013,EuroRack Systems BV,2026-01-30,2026-01-26,Invoiced,2026-02-21
+REQ-26-002,2026-02-03,HEL-01,Maintenance Services,,Thermal survey and airflow remediation,1,13300.0,Invoiced,PO-26-00033,CoolFlow Facility Maintenance BV,2026-02-27,2026-02-21,Invoiced,2026-03-12
+REQ-26-003,2026-02-20,AMS-01,Maintenance Services,,Out-of-warranty GPU server board repair,1,15900.0,Invoiced,PO-26-00038,CoolFlow Facility Maintenance BV,2026-03-18,2026-03-29,Invoiced,2026-04-11
+REQ-26-004,2026-03-02,FRA-01,Equipment Purchase,,"Spare GPU FRU modules, H100 SXM5",6,25000.0,Invoiced,PO-26-00003,EuroRack Systems BV,2026-04-17,2026-04-25,Invoiced,2026-05-04
+REQ-26-005,2026-03-16,AMS-01,Maintenance Services,,Out-of-warranty GPU server board repair,1,15600.0,Invoiced,PO-26-00034,CoolFlow Facility Maintenance BV,2026-04-04,2026-03-31,Invoiced,2026-04-29
+REQ-26-006,2026-04-10,FRA-01,Equipment Purchase,,"NVMe storage server, 24-bay",4,46500.0,Invoiced,PO-26-00007,Nordic Compute Distribution Oy,2026-05-27,2026-05-27,Invoiced,2026-06-22
+REQ-26-007,2026-04-14,HEL-01,Equipment Purchase,,"GPU server, 8x H100 SXM5 (HGX platform)",4,292000.0,Invoiced,PO-26-00005,Baltic Hardware Supply AB,2026-06-25,2026-06-30,Invoiced,2026-07-22
+REQ-26-008,2026-04-27,AMS-01,Spare Parts Replenishment,SP-DIMM-64,64GB DDR5-4800 RDIMM,15,310.0,Invoiced,PO-26-00015,Baltic Hardware Supply AB,2026-06-01,2026-06-14,Invoiced,2026-06-24
+REQ-26-009,2026-04-27,AMS-01,Spare Parts Replenishment,SP-FAN-GPU,GPU server hot-swap fan module,10,140.0,Invoiced,PO-26-00017,EuroRack Systems BV,2026-06-01,2026-05-31,Invoiced,2026-06-11
+REQ-26-010,2026-05-03,FRA-01,Spare Parts Replenishment,SP-PSU-2K,2000W Titanium PSU (storage/switch),10,480.0,Invoiced,PO-26-00012,Baltic Hardware Supply AB,2026-06-14,2026-06-08,Invoiced,2026-07-08
+REQ-26-011,2026-05-17,AMS-01,Equipment Purchase,,"Management server, 1U",4,9600.0,Invoiced,PO-26-00006,Baltic Hardware Supply AB,2026-07-24,2026-07-18,Invoiced,2026-08-17
+REQ-26-012,2026-05-24,FRA-01,Spare Parts Replenishment,SP-NVME-3T8,3.84TB NVMe U.2 SSD,15,620.0,Cancelled,,Baltic Hardware Supply AB,,,N/A,
+REQ-26-013,2026-05-25,FRA-01,Spare Parts Replenishment,SP-DAC-400G,"400G QSFP112 DAC cable, 2 m",20,210.0,Invoiced,PO-26-00019,Baltic Hardware Supply AB,2026-06-22,2026-06-21,Invoiced,2026-07-10
+REQ-26-014,2026-05-27,AMS-01,Equipment Purchase,,"GPU server, 8x H100 SXM5 (HGX platform)",4,292000.0,Invoiced,PO-26-00002,Baltic Hardware Supply AB,2026-07-09,2026-07-16,Invoiced,2026-08-12
+REQ-26-015,2026-06-05,HEL-01,Maintenance Services,,Out-of-warranty GPU server board repair,1,14700.0,Cancelled,,PowerGrid Services Oy,,,N/A,
+REQ-26-016,2026-06-13,FRA-01,Spare Parts Replenishment,SP-FAN-GPU,GPU server hot-swap fan module,30,140.0,Invoiced,PO-26-00021,PhotonLink Optics GmbH,2026-07-18,2026-07-22,Invoiced,2026-08-07
+REQ-26-017,2026-06-13,STO-01,Maintenance Services,,Thermal survey and airflow remediation,1,12300.0,Invoiced,PO-26-00036,DataCare Field Services Ltd,2026-07-19,2026-07-18,Invoiced,2026-07-29
+REQ-26-018,2026-06-14,HEL-01,Equipment Purchase,,"Spare GPU FRU modules, H100 SXM5",7,25000.0,Cancelled,,EuroRack Systems BV,,,N/A,
+REQ-26-019,2026-06-15,STO-01,Spare Parts Replenishment,SP-DAC-400G,"400G QSFP112 DAC cable, 2 m",40,210.0,Invoiced,PO-26-00022,EuroRack Systems BV,2026-07-13,2026-07-15,Invoiced,2026-08-08
+REQ-26-020,2026-06-19,STO-01,Equipment Purchase,,"GPU server, 8x H100 SXM5 (HGX platform)",3,292000.0,Invoiced,PO-26-00004,Baltic Hardware Supply AB,2026-08-09,2026-08-15,Invoiced,2026-09-14
+REQ-26-021,2026-06-25,HEL-01,Spare Parts Replenishment,SP-FAN-GPU,GPU server hot-swap fan module,25,140.0,Invoiced,PO-26-00016,PhotonLink Optics GmbH,2026-07-30,2026-08-11,Invoiced,2026-08-22
+REQ-26-022,2026-06-28,HEL-01,Spare Parts Replenishment,SP-PWR-C19,"C19-C20 power cord, pack of 10",25,45.0,Invoiced,PO-26-00020,EuroRack Systems BV,2026-07-15,2026-07-28,Invoiced,2026-08-12
+REQ-26-023,2026-06-29,FRA-01,Spare Parts Replenishment,SP-DAC-400G,"400G QSFP112 DAC cable, 2 m",20,210.0,Invoiced,PO-26-00023,PhotonLink Optics GmbH,2026-07-27,2026-07-27,Invoiced,2026-08-10
+REQ-26-024,2026-07-07,HEL-01,Spare Parts Replenishment,SP-SSD-BOOT,960GB M.2 NVMe boot SSD,40,140.0,Invoiced,PO-26-00018,PhotonLink Optics GmbH,2026-08-04,2026-08-15,Invoiced,2026-08-23
+REQ-26-025,2026-07-16,FRA-01,Spare Parts Replenishment,SP-DAC-BRK,"800G to 2x400G breakout DAC, 2 m",30,390.0,Invoiced,PO-26-00014,PhotonLink Optics GmbH,2026-08-27,2026-09-06,Invoiced,2026-09-16
+REQ-26-026,2026-07-18,AMS-01,Spare Parts Replenishment,SP-NVME-7T6,7.68TB NVMe U.2 SSD,25,980.0,Received,PO-26-00025,Baltic Hardware Supply AB,2026-09-05,2026-09-03,Not Invoiced,
+REQ-26-027,2026-08-02,HEL-01,Maintenance Services,,Quarterly PDU/UPS preventive maintenance,1,18300.0,Invoiced,PO-26-00037,CoolFlow Facility Maintenance BV,2026-09-05,2026-09-17,Invoiced,2026-10-09
+REQ-26-028,2026-08-03,FRA-01,Maintenance Services,,Fibre inspection and cleaning service,1,8900.0,Invoiced,PO-26-00035,PowerGrid Services Oy,2026-09-07,2026-09-11,Invoiced,2026-10-08
+REQ-26-029,2026-08-05,HEL-01,Equipment Purchase,,"NVMe storage server, 24-bay",3,46500.0,Invoiced,PO-26-00001,Baltic Hardware Supply AB,2026-09-23,2026-09-22,Invoiced,2026-10-15
+REQ-26-030,2026-08-05,HEL-01,Maintenance Services,,Thermal survey and airflow remediation,1,11600.0,Received,PO-26-00040,DataCare Field Services Ltd,2026-08-26,2026-08-23,Not Invoiced,
+REQ-26-031,2026-08-15,FRA-01,Maintenance Services,,CRAH/cooling preventive maintenance,1,28500.0,Invoiced,PO-26-00039,DataCare Field Services Ltd,2026-09-04,2026-09-10,Invoiced,2026-09-16
+REQ-26-032,2026-08-17,HEL-01,Spare Parts Replenishment,SP-NIC-OCP,OCP 3.0 2x25GbE NIC,15,390.0,Received,PO-26-00024,EuroRack Systems BV,2026-10-08,2026-10-13,Not Invoiced,
+REQ-26-033,2026-09-07,AMS-01,Spare Parts Replenishment,SP-NIC-OCP,OCP 3.0 2x25GbE NIC,35,390.0,Received,PO-26-00026,PhotonLink Optics GmbH,2026-10-29,2026-11-08,Not Invoiced,
+REQ-26-034,2026-09-09,AMS-01,Equipment Purchase,,"GPU server, 8x H100 SXM5 (HGX platform)",4,292000.0,PO Issued,PO-26-00010,Baltic Hardware Supply AB,2026-11-03,,Not Invoiced,
+REQ-26-035,2026-09-24,HEL-01,Equipment Purchase,,"GPU server, 8x H100 SXM5 (HGX platform)",4,292000.0,Received,PO-26-00008,Baltic Hardware Supply AB,2026-11-07,2026-11-10,Not Invoiced,
+REQ-26-036,2026-09-25,HEL-01,Equipment Purchase,,OSFP 800G transceivers,74,1380.0,Received,PO-26-00009,Nordic Compute Distribution Oy,2026-12-03,2026-11-10,Not Invoiced,
+REQ-26-037,2026-10-04,FRA-01,Spare Parts Replenishment,SP-PWR-C19,"C19-C20 power cord, pack of 10",20,45.0,PO Issued,PO-26-00028,PhotonLink Optics GmbH,2026-10-21,,Not Invoiced,
+REQ-26-038,2026-10-13,HEL-01,Spare Parts Replenishment,SP-PWR-C19,"C19-C20 power cord, pack of 10",25,45.0,PO Issued,PO-26-00029,EuroRack Systems BV,2026-10-30,,Not Invoiced,
+REQ-26-039,2026-10-15,STO-01,Spare Parts Replenishment,SP-MPO-12,"MPO-12 OM4 fibre trunk, 10 m",10,95.0,PO Issued,PO-26-00032,Baltic Hardware Supply AB,2026-11-05,,Not Invoiced,
+REQ-26-040,2026-10-19,STO-01,Spare Parts Replenishment,SP-DAC-400G,"400G QSFP112 DAC cable, 2 m",15,210.0,PO Issued,PO-26-00027,Baltic Hardware Supply AB,2026-11-16,,Not Invoiced,
+REQ-26-041,2026-10-19,AMS-01,Maintenance Services,,CRAH/cooling preventive maintenance,1,26700.0,Approved - No PO,,CoolFlow Facility Maintenance BV,,,Not Invoiced,
+REQ-26-042,2026-10-21,HEL-01,Maintenance Services,,Fibre inspection and cleaning service,1,10000.0,PO Issued,PO-26-00041,CoolFlow Facility Maintenance BV,2026-11-19,,Not Invoiced,
+REQ-26-043,2026-10-24,FRA-01,Equipment Purchase,,"GPU server, 8x H100 SXM5 (HGX platform)",3,292000.0,Pending Approval,,Nordic Compute Distribution Oy,,,Not Invoiced,
+REQ-26-044,2026-10-24,HEL-01,Spare Parts Replenishment,SP-DAC-400G,"400G QSFP112 DAC cable, 2 m",40,210.0,Approved - No PO,,Baltic Hardware Supply AB,,,Not Invoiced,
+REQ-26-045,2026-10-26,HEL-01,Equipment Purchase,,"Management server, 1U",3,9600.0,Approved - No PO,,EuroRack Systems BV,,,Not Invoiced,
+REQ-26-046,2026-10-27,STO-01,Equipment Purchase,,"Spare GPU FRU modules, H100 SXM5",8,25000.0,Approved - No PO,,Nordic Compute Distribution Oy,,,Not Invoiced,
+REQ-26-047,2026-10-29,AMS-01,Spare Parts Replenishment,SP-DIMM-64,64GB DDR5-4800 RDIMM,15,310.0,PO Issued,PO-26-00031,PhotonLink Optics GmbH,2026-12-03,,Not Invoiced,
+REQ-26-048,2026-10-31,STO-01,Spare Parts Replenishment,SP-NVME-3T8,3.84TB NVMe U.2 SSD,40,620.0,Pending Approval,,PhotonLink Optics GmbH,,,Not Invoiced,
+REQ-26-049,2026-11-01,STO-01,Spare Parts Replenishment,SP-FAN-GPU,GPU server hot-swap fan module,35,140.0,PO Issued,PO-26-00030,Baltic Hardware Supply AB,2026-12-06,,Not Invoiced,
+REQ-26-050,2026-11-01,FRA-01,Maintenance Services,,Third-party storage maintenance (6 months),1,38400.0,Pending Approval,,CoolFlow Facility Maintenance BV,,,Not Invoiced,
+REQ-26-051,2026-11-02,AMS-01,Equipment Purchase,,"Management server, 1U",2,9600.0,Pending Approval,,Baltic Hardware Supply AB,,,Not Invoiced,
+REQ-26-052,2026-11-05,STO-01,Maintenance Services,,Thermal survey and airflow remediation,1,11900.0,Pending Approval,,CoolFlow Facility Maintenance BV,,,Not Invoiced,
+REQ-26-053,2026-11-07,FRA-01,Equipment Purchase,,OSFP 800G transceivers,60,1380.0,PO Issued,PO-26-00011,EuroRack Systems BV,2027-01-16,,Not Invoiced,
+REQ-26-054,2026-11-07,AMS-01,Spare Parts Replenishment,SP-OPT-100G,QSFP28 100G SR4 transceiver,20,160.0,Pending Approval,,EuroRack Systems BV,,,Not Invoiced,
+REQ-26-055,2026-11-08,AMS-01,Spare Parts Replenishment,SP-SSD-BOOT,960GB M.2 NVMe boot SSD,25,140.0,Approved - No PO,,EuroRack Systems BV,,,Not Invoiced,
